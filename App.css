@@ -1,0 +1,79 @@
+/* App.css */
+
+/* Header styles */
+header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+/* Section styles */
+section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* List styles */
+ul {
+  list-style: disc;
+  margin-left: 2rem;
+  padding-left: 1rem;
+}
+
+/* Footer styles */
+footer p {
+  font-size: 1rem;
+  color: #333;
+}
+
+/* Link styles */
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Container styles */
+.container {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Background styles */
+.bg-gray-100 {
+  background-color: #f7fafc;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+/* Text styles */
+.text-xl {
+  font-size: 1.875rem;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Margin and padding styles */
+.m-4 {
+  margin: 1rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
